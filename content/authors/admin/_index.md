@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr David Barrett
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: David
+last_name: Barrett
 
 # Status emoji
 status:
@@ -20,36 +20,33 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Associate and Sessional Instructor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Calgary
+    url: https://profiles.ucalgary.ca/david-barrett
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:david.barrett@ucalgary.ca'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/dbinyyc
   - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://www.instagram.com/dbinyyc
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/dcbarrett
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=d_MVRtYAAAAJ
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Aquatic Ecosystem Health
+  - Winter limnology
+  - Urban growth and change
+  - Community based monitoring
 
 education:
   - area: PhD Artificial Intelligence
